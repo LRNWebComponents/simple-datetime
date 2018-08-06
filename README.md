@@ -9,7 +9,9 @@
 ```
 -->
 ```html
-<simple-datetime></simple-datetime>
+  <simple-datetime timestamp="445939200000"></simple-datetime>
+  <simple-datetime timestamp="2415939200000"></simple-datetime>
+  <simple-datetime unix timestamp="445939200"></simple-datetime>
 ```
 
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/LRNWebComponents/simple-datetime)
