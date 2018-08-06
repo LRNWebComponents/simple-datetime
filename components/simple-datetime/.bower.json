@@ -1,0 +1,30 @@
+{
+  "name": "simple-datetime",
+  "description": "A LRN element",
+  "license": "Apache-2.0",
+  "main": "simple-datetime.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.10.1",
+    "date.format": "jacwright/date.format"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "resolutions": {
+    "webcomponentsjs": "^0.7.24"
+  },
+  "homepage": "https://github.com/LRNWebComponents/simple-datetime",
+  "_release": "6ce3a062e5",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "6ce3a062e59f1392cbc76692ef2d660eece27900"
+  },
+  "_source": "https://github.com/LRNWebComponents/simple-datetime.git",
+  "_target": "master",
+  "_originalSource": "LRNWebComponents/simple-datetime",
+  "_direct": true
+}
